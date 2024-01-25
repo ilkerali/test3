@@ -1,1 +1,1 @@
-p
+print('Merhaba dunya')
